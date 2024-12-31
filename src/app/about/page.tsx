@@ -52,7 +52,7 @@ const About = () => {
         color: '#fbbf24',
       }}
     >
-      Noor Fatima
+      SANA JAMEEL
     </h1>
 
     {/* About Content */}
