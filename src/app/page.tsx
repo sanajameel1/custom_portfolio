@@ -525,7 +525,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Abdullah Kashif</h2>
+          }}>Saqib Jameel</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
@@ -560,7 +560,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Hafsa Kamali</h2>
+          }}>Saira khan</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
@@ -595,7 +595,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Uzair Khijli</h2>
+          }}>Umer Farooq</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
@@ -630,7 +630,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Iqra Ikram</h2>
+          }}>Mahnoor</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
@@ -665,7 +665,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Rija Zeeshan</h2>
+          }}>Sana</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
@@ -700,7 +700,7 @@ export default function page() {
             color: "#F6E05E", 
             fontSize: "18px", 
             fontWeight: "500"
-          }}>Areeba Khijli</h2>
+          }}>Khatija</h2>
           <p className="team-role" style={{
             color: "#A0AEC0", 
             fontSize: "14px"
